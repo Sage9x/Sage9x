@@ -2,7 +2,7 @@
 👩‍🎓 I'm a student and soon to be freelancer.
 
 👀 I’m interested in App and web development.
-🌱 I’m currently learning app development as a student.
+🌱 I’m currently learning app development.
 
 ☺️ If you need help with web development contact me Mon-Fri.
 💞️ "Hustle because One day you will be who you want to be".
