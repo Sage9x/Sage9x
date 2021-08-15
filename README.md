@@ -6,15 +6,15 @@ The thing which intrigues me as of now is javascript on webpages, because you ca
 The end goal for me on this short journey is making good e-commerce/informative/blogs/vlogs, Well Designed and Functional, Easy to Use, Quality content dynamic websites for the public.
 
 Languages I'm familiar with-
-*c
-*c++
-*java
-*javascipt
+*c,
+*c++,
+*java,
+*javascipt.
 
 Languages I'm yet to learn-
-*Python(Flask)
-*php (mysql db)
-*nodejs (express,mangodb,jquery)
+*Python(Flask),
+*php (mysql db),
+*nodejs (express,mangodb,jquery),
 *
 
 👀 I’m currently freelancing on making web projects.
