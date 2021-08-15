@@ -18,6 +18,7 @@ Languages I'm yet to learn-
 *
 
 👀 I’m currently freelancing on making web projects.
+(will be updated here after the release)
 
 \\QUOTES FOR THE YEAR 2021//
 💞️ "Hustle because One day you will be who you want to be".
